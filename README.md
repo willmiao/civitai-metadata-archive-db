@@ -5,7 +5,7 @@ This repository hosts the **CivitAI Metadata Archive DB file** for optional use 
 - **Source / Credit**: [CivArchive](https://civitaiarchive.com/)  
 - **DB File**: Provided by CivArchive team  
 - **Purpose**: Offers extended metadata support in LoRA Manager  
-- **Download**: Available under [Releases](./releases)
+- **Download**: Available under [Releases](https://github.com/willmiao/civitai-metadata-archive-db/releases)
 
 ---
 
